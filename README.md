@@ -1,1 +1,1 @@
-# AIassistant
+# AI assistant
